@@ -18,3 +18,5 @@ The java program launches Google playstore app on Android mobile and verifies if
 To run this for any other device, the device name and the UDID should be changed. 
 UDID can be found by typing in adb devices in command prompt.
 The Android version can be found in the About Phone in Phone settings.
+
+Appium Desktop client should be up and running and the Android device should be successfully connected to the computer.
